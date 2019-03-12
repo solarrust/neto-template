@@ -19,7 +19,7 @@ npm install --save-dev babel-loader css-loader html-loader html-webpack-plugin m
 npm install --save-dev webpack-dev-server
 
 # jest lection
-npm install --save-devjest babel-jest
+npm install --save-dev jest babel-jest
 
 #
 npm install --save-dev jsdoc
