@@ -2,7 +2,7 @@
   "name": "neto-template",
   "version": "1.0.0",
   "description": "",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "jest",
@@ -17,12 +17,9 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/coursar/neto-template.git"
-  },
+  "repository": "https://github.com/solarrust/neto-template.git",
   "keywords": [],
-  "author": "coursar",
+  "author": "SolarRust",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/coursar/neto-template/issues"
